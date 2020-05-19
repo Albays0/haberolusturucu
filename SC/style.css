@@ -1,0 +1,21 @@
+* {
+	margin:0;
+	padding:;
+}
+
+body {
+	background-color:#232323;
+}
+/*başlangıç*/
+.container {width:800px; height:900px; margin: 0 auto; margin-top:50px; background-color:#2a2f30;}
+.header{width:800px;height:80px; background-color:#c0392b}
+.logo{float:left;margin-left:30px; margin-top:8px;}
+.logo img{width:400px;height:70px;}
+
+
+/*içerik*/
+
+.haber-f {float:left;width:500px;height:350; background-color:black; margin-left:150px;margin-top:50px; border-radius:3px;}
+.haber-f img{float:left;width:500px;height:350; background-color:black; margin-top:px; border-radius:3px;}
+.haber-baslik{font-size:30; font-style: bold; color:#ecf0f1}
+.haber-detay{margin-left:100px;margin-top:30px;float:left;width:750px; font-size:20px; color:#ecf0f1}
